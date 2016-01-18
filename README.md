@@ -3,9 +3,10 @@
 ## Documentation
 
 Each repo's root directory should contain a README.md with the following sections:
+  * Summary of what the example is about
   * Prerequisites
   * Tested Version (Most recent Cloudify version must be among them.)
-  * Complete Install and Uninstall Instructions
+  * Complete install and uninstall instructions
 
 ## Directory Structure
 
