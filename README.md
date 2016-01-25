@@ -1,5 +1,14 @@
 # Basic Guidelines for Submitting to Cloudify Examples Org
 
+## Naming
+
+"Publishing" to the Cloudify Examples website is simple. A repository needs its name to end in one of the three categories:
+  * -blueprint
+  * -plugin
+  * -integration
+
+If a repository should not be published to getcloudify examples for some reason, e.g. the current repository, which is a guide to publishing, simply do not put one of those words in the title of the repository.
+
 ## Documentation
 
 Each repo's root directory should contain a README.md with the following sections:
