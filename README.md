@@ -35,4 +35,5 @@ See [cloudify-ecosystem-tests](https://github.com/cloudify-incubator/cloudify-ec
 ## Examples
 
 The [cloudify-kubernetes-plugin](https://github.com/cloudify-incubator/cloudify-kubernetes-plugin) is an example of a good plugin.
-See this (non-functional) example [requests plugin](https://github.com/EarthmanT/cloudify-requests-plugin).
+
+To learn how to write a plugin, see also the read me of this (non-functional) example [requests plugin](https://github.com/EarthmanT/cloudify-requests-plugin).
