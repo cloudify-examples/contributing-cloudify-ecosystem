@@ -31,3 +31,8 @@ The plugin directory structure should conform to that of standard Python project
 ## Integration Tests
 
 See [cloudify-ecosystem-tests](https://github.com/cloudify-incubator/cloudify-ecosystem-test).
+
+## Examples
+
+The [cloudify-kubernetes-plugin](https://github.com/cloudify-incubator/cloudify-kubernetes-plugin) is an example of a good plugin.
+See this (non-functional) example [requests plugin](https://github.com/EarthmanT/cloudify-requests-plugin).
