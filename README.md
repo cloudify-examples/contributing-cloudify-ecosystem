@@ -37,3 +37,7 @@ See [cloudify-ecosystem-tests](https://github.com/cloudify-incubator/cloudify-ec
 The [cloudify-kubernetes-plugin](https://github.com/cloudify-incubator/cloudify-kubernetes-plugin) is an example of a good plugin.
 
 To learn how to write a plugin, see also the read me of this (non-functional) example [requests plugin](https://github.com/EarthmanT/cloudify-requests-plugin).
+
+## How to submit contributions
+
+Contact us at hello@cloudify.co. Please make sure your repository has an Apache License. Please include detailed testing intructions and also explain what is covered in the tests.
